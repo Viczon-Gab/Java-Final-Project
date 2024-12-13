@@ -1,0 +1,4 @@
+public interface CareSchedule {
+    void feed();
+    void groom();
+}
